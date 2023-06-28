@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chiara
-- 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
-- 👨🏻‍💻 I'm a Master Thesis Student in Image Processing and Computer Vision
-- 🔭 I’m currently working on Monocular Depth Estimation
+- 🎓 I have a MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+- 👨🏻‍💻 I'm the co-founder of [Leya](https://leyaxr.com/)
 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/chiaramalizia/)
 
